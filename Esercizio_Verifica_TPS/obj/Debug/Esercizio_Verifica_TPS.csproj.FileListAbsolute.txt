@@ -1,0 +1,15 @@
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\bin\Debug\Esercizio_Verifica_TPS.exe.config
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\bin\Debug\Esercizio_Verifica_TPS.exe
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\bin\Debug\Esercizio_Verifica_TPS.pdb
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.csprojAssemblyReference.cache
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\MainWindow.g.cs
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\App.g.cs
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS_MarkupCompile.cache
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS_MarkupCompile.lref
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\MainWindow.baml
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.g.resources
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.Properties.Resources.resources
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.csproj.GenerateResource.cache
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.exe
+C:\Users\lorenzo.zuttion\Documents\Esercizio_Verifica_TPS\Esercizio_Verifica_TPS\obj\Debug\Esercizio_Verifica_TPS.pdb

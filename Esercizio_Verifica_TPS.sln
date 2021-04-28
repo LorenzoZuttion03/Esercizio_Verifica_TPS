@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio_Verifica_TPS", "Esercizio_Verifica_TPS\Esercizio_Verifica_TPS.csproj", "{DD7EFD8E-814C-4343-B8DE-618629FD3690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7EFD8E-814C-4343-B8DE-618629FD3690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7EFD8E-814C-4343-B8DE-618629FD3690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7EFD8E-814C-4343-B8DE-618629FD3690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7EFD8E-814C-4343-B8DE-618629FD3690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3FE48C-C71A-4194-B00B-5F268E9185EA}
+	EndGlobalSection
+EndGlobal
