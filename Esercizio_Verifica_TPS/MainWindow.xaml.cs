@@ -69,7 +69,7 @@ namespace Esercizio_Verifica_TPS
         private void btnRiavviaBarra_Click(object sender, RoutedEventArgs e)
         {
             AvanzaBarra();
-            CalcoloPercentuale();
+            
         }
         
     }
